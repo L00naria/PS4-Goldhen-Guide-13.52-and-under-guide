@@ -3,7 +3,8 @@ A guide on using the GoldHen exploit that's recently come to 13.52 firmware
 
 ### IMPORTANT NOTE:
  - Modifying a console in any way can cause irreparable damage to your system, I am not responsible for anything you do to your console. I will not be telling you how to run backups or where to get game backups this is purely to explain how to enable GoldHen on your system.
- "With great power comes great responsibility"
+
+"With great power comes great responsibility"
 
 ### Prerequisites:
 
